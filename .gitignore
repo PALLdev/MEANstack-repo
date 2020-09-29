@@ -1,0 +1,5 @@
+# Ignorando carpetas en git
+node_modules/
+
+# Ignorando archivo en git
+package-lock.json
